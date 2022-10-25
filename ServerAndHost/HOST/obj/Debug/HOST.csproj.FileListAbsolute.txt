@@ -1,0 +1,36 @@
+C:\Users\Admin\source\repos\ServerAndHost\HOST\bin\Debug\HOST.exe.config
+C:\Users\Admin\source\repos\ServerAndHost\HOST\bin\Debug\HOST.exe
+C:\Users\Admin\source\repos\ServerAndHost\HOST\bin\Debug\HOST.pdb
+C:\Users\Admin\source\repos\ServerAndHost\HOST\bin\Debug\Server.dll
+C:\Users\Admin\source\repos\ServerAndHost\HOST\bin\Debug\Server.pdb
+C:\Users\Admin\source\repos\ServerAndHost\HOST\bin\Debug\Server.dll.config
+C:\Users\Admin\source\repos\ServerAndHost\HOST\obj\Debug\HOST.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ServerAndHost\HOST\obj\Debug\HOST.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ServerAndHost\HOST\obj\Debug\HOST.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ServerAndHost\HOST\obj\Debug\HOST.csproj.CopyComplete
+C:\Users\Admin\source\repos\ServerAndHost\HOST\obj\Debug\HOST.exe
+C:\Users\Admin\source\repos\ServerAndHost\HOST\obj\Debug\HOST.pdb
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Új mappa\ServerAndHost\HOST\bin\Debug\HOST.exe.config
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Új mappa\ServerAndHost\HOST\bin\Debug\HOST.exe
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Új mappa\ServerAndHost\HOST\bin\Debug\HOST.pdb
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Új mappa\ServerAndHost\HOST\bin\Debug\Server.dll
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Új mappa\ServerAndHost\HOST\bin\Debug\Server.pdb
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Új mappa\ServerAndHost\HOST\bin\Debug\Server.dll.config
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Új mappa\ServerAndHost\HOST\obj\Debug\HOST.csproj.AssemblyReference.cache
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Új mappa\ServerAndHost\HOST\obj\Debug\HOST.csproj.SuggestedBindingRedirects.cache
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Új mappa\ServerAndHost\HOST\obj\Debug\HOST.csproj.CoreCompileInputs.cache
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Új mappa\ServerAndHost\HOST\obj\Debug\HOST.csproj.CopyComplete
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Új mappa\ServerAndHost\HOST\obj\Debug\HOST.exe
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Új mappa\ServerAndHost\HOST\obj\Debug\HOST.pdb
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Működő serverandhost legújabb\ServerAndHost\HOST\bin\Debug\HOST.exe.config
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Működő serverandhost legújabb\ServerAndHost\HOST\bin\Debug\HOST.exe
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Működő serverandhost legújabb\ServerAndHost\HOST\bin\Debug\HOST.pdb
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Működő serverandhost legújabb\ServerAndHost\HOST\bin\Debug\Server.dll
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Működő serverandhost legújabb\ServerAndHost\HOST\bin\Debug\Server.pdb
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Működő serverandhost legújabb\ServerAndHost\HOST\bin\Debug\Server.dll.config
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Működő serverandhost legújabb\ServerAndHost\HOST\obj\Debug\HOST.csproj.AssemblyReference.cache
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Működő serverandhost legújabb\ServerAndHost\HOST\obj\Debug\HOST.csproj.SuggestedBindingRedirects.cache
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Működő serverandhost legújabb\ServerAndHost\HOST\obj\Debug\HOST.csproj.CoreCompileInputs.cache
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Működő serverandhost legújabb\ServerAndHost\HOST\obj\Debug\HOST.csproj.CopyComplete
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Működő serverandhost legújabb\ServerAndHost\HOST\obj\Debug\HOST.exe
+C:\Users\kissg\Desktop\KGZS\BACKEND ELMÉLET\Működő serverandhost legújabb\ServerAndHost\HOST\obj\Debug\HOST.pdb
